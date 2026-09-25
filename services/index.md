@@ -7,7 +7,7 @@ Electronic design is where product ideas meet real-world requirements. JPLogic s
 [Learn more](https://www.jplogic.io/services/electronic-design/)
 
 ## Sensor Systems
-Some hazards can't be seen, smelled, or heard until it's too late. JPLogic designs and builds sensor systems that detect what human senses can't — air quality, gas, and radiation among them.
+Some hazards can't be seen, smelled, or heard until it's too late. JPLogic designs and builds sensor systems that detect what human senses can't - micro vibrations, radiation among them.
 [Learn more](https://www.jplogic.io/services/sensor-systems/)
 
 ## Connected Systems & IP
